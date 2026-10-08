@@ -318,20 +318,20 @@ Format each as a standalone document the user can implement directly. Include pl
 
 ## Tool Integrations
 
-For implementation, see the [tools registry](https://github.com/coreyhaines31/marketingskills/blob/main/tools/REGISTRY.md). Key RevOps tools:
+For implementation, see the [tools registry](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/REGISTRY.md). Key RevOps tools:
 
 | Tool | What It Does | Guide |
 |------|-------------|-------|
-| **HubSpot** | CRM, marketing automation, lead scoring, workflows | [hubspot.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/hubspot.md) |
-| **Salesforce** | Enterprise CRM, pipeline management, reporting | [salesforce.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/salesforce.md) |
-| **Calendly** | Meeting scheduling, round-robin routing | [calendly.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/calendly.md) |
-| **SavvyCal** | Scheduling with priority-based availability | [savvycal.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/savvycal.md) |
-| **Clearbit** | Real-time lead enrichment and scoring | [clearbit.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/clearbit.md) |
-| **Apollo** | Contact data, enrichment, and outbound sequences | [apollo.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/apollo.md) |
-| **ActiveCampaign** | Marketing automation for SMBs, lead scoring | [activecampaign.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/activecampaign.md) |
-| **Zapier** | Cross-tool automation and workflow glue | [zapier.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/zapier.md) |
-| **Introw** | Partner-sourced pipeline, commissions, deal registration, QBRs | [introw.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/introw.md) |
-| **Crossbeam** | Partner account overlaps and co-sell identification | [crossbeam.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/crossbeam.md) |
+| **HubSpot** | CRM, marketing automation, lead scoring, workflows | [hubspot.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/hubspot.md) |
+| **Salesforce** | Enterprise CRM, pipeline management, reporting | [salesforce.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/salesforce.md) |
+| **Calendly** | Meeting scheduling, round-robin routing | [calendly.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/calendly.md) |
+| **SavvyCal** | Scheduling with priority-based availability | [savvycal.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/savvycal.md) |
+| **Clearbit** | Real-time lead enrichment and scoring | [clearbit.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/clearbit.md) |
+| **Apollo** | Contact data, enrichment, and outbound sequences | [apollo.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/apollo.md) |
+| **ActiveCampaign** | Marketing automation for SMBs, lead scoring | [activecampaign.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/activecampaign.md) |
+| **Zapier** | Cross-tool automation and workflow glue | [zapier.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/zapier.md) |
+| **Introw** | Partner-sourced pipeline, commissions, deal registration, QBRs | [introw.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/introw.md) |
+| **Crossbeam** | Partner account overlaps and co-sell identification | [crossbeam.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/crossbeam.md) |
 
 ---
 

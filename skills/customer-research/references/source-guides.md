@@ -333,7 +333,7 @@ SparkToro data is aggregated and anonymized — it shows patterns, not individua
 - Skews English-language, US-centric
 - Shows what audiences do, not why — pair with qualitative sources
 
-See [tools/integrations/sparktoro.md](https://github.com/coreyhaines31/marketingskills/blob/main/tools/integrations/sparktoro.md) for full tool details and pricing.
+See [tools/integrations/sparktoro.md](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/integrations/sparktoro.md) for full tool details and pricing.
 
 ---
 

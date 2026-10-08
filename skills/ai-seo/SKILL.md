@@ -455,7 +455,7 @@ For tactical guidance on SaaS product pages, blog content, comparison/alternativ
 
 ## Tool Integrations
 
-For implementation, see the [tools registry](https://github.com/coreyhaines31/marketingskills/blob/main/tools/REGISTRY.md).
+For implementation, see the [tools registry](https://github.com/coreyhaines31/marketingskills/blob/25775651641d4178a5e89e119a49b66b76a955af/tools/REGISTRY.md).
 
 | Tool | Use For |
 |------|---------|
